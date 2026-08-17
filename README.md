@@ -73,8 +73,9 @@
 
 | Item | Summary |
 | --- | --- |
-| NYPC Portfolio | NYPC 지원 및 대회 활동을 위해 제작한 웹 포트폴리오 |
-| Debate Award Portfolio | 제12회 가톨릭대학생 토론대회 대상 수상 경험 정리 |
+| [가톨릭대 AI CUK 혁신대회](https://github.com/yongnyong/competition-yong/tree/main/가톨릭대_ai_cuk_혁신대회) | 제4회 CUK혁신 아이디어 경진대회 장려상 수상, 공유대학 접근성 개선 서비스 기획 |
+| [NYPC Portfolio](https://github.com/yongnyong/competition-yong/tree/main/nypc_portfolio_upload%20(2)) | NYPC 지원 및 대회 활동을 위해 제작한 웹 포트폴리오 |
+| [Debate Award Portfolio](https://github.com/yongnyong/competition-yong/tree/main/debate-award-portfolio) | 제12회 가톨릭대학생 토론대회 대상 수상 경험 정리 |
 
 ---
 
