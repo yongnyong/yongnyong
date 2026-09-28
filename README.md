@@ -44,8 +44,7 @@
 | Project | What I Worked On | Keywords |
 | --- | --- | --- |
 | [MES 업무관리 플랫폼](https://github.com/yongnyong/tovnet/tree/main/mes-portfolio) | 제조, 재고, 업무공유, 고객 A/S를 통합 관리하는 PHP 기반 사내 웹 시스템 | `PHP` `MySQL` `JavaScript` `Bootstrap` |
-| [TOVNET-SEG](https://github.com/yongnyong/tovnet/tree/main/tovnet-seg-portfolio) | CCTV 기반 수면 조류 Segmentation AI 시스템의 기술 인수 및 운영 구조 분석 | `Python` `PyTorch` `OneFormer` `RTSP` |
-| [탄천 CCTV Network](https://github.com/yongnyong/tovnet/tree/main/tancheon-cctv-network-portfolio/tancheon-cctv-network-portfolio) | CCTV 원격 모니터링 환경 구축 및 네트워크 장애 원인 분석 | `RTSP` `NAT` `DHCP` `Omada` |
+| [TOVNET-SEG · 탄천 AI 모니터링](https://github.com/yongnyong/tovnet/tree/main/tovnet-seg-portfolio) | AI 영상 분석·모니터링 전체 설계·개발: 영상 수집·추론·ROI·재학습·평가·측정 저장·30분 예측·웹·센서·알림·현장 연결 | `Python` `PyTorch` `OneFormer` `Django` `RTSP` |
 | [USIM Management](https://github.com/yongnyong/tovnet/tree/main/usim-management-portfolio) | 엑셀 기반 USIM 관리 업무를 DB 기반 웹 시스템으로 전환 | `Laravel` `PHP` `MySQL` `Excel` |
 
 ---
